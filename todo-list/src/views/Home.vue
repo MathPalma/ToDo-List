@@ -2,8 +2,8 @@
 
 <nav class="deep-purple lighten-3 lighten-1" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo"><i class="material-icons">check_box</i></a>
-      <ul class="right hide-on-med-and-down">
-        <li><a href="#">Log in</a></li>
+      <ul class="right">
+        <li><a href="/login">Login</a></li>
       </ul>
 
       <ul id="nav-mobile" class="sidenav">
